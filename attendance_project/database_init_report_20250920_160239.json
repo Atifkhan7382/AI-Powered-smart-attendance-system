@@ -1,0 +1,10 @@
+{
+  "initialization_timestamp": "2025-09-20T16:02:39.662424",
+  "database_path": "attendance.db",
+  "database_size_mb": 0.08,
+  "status": "SUCCESS",
+  "tables_created": 6,
+  "views_created": 2,
+  "indexes_created": 12,
+  "default_classes_added": 3
+}

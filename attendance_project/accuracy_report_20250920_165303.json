@@ -1,0 +1,31 @@
+{
+  "test_timestamp": "2025-09-20T16:53:03.624628",
+  "system_info": {
+    "face_recognition_available": true,
+    "database_file": "attendance.db",
+    "tolerance": 0.6,
+    "model": "hog"
+  },
+  "accuracy_metrics": {
+    "face_detection_rate": 0.0,
+    "average_confidence": 0.0,
+    "recognition_accuracy": 0.0,
+    "processing_speed": 0.050452470779418945
+  },
+  "performance_metrics": {
+    "avg_processing_time": 0.14694499969482422,
+    "database_response_time": 0.03363633155822754,
+    "total_images_tested": 2
+  },
+  "database_health": {
+    "total_students": 5,
+    "attendance_records": 0,
+    "data_integrity": true,
+    "foreign_key_constraints": true
+  },
+  "recommendations": [
+    "Consider improving lighting conditions or image quality for better face detection",
+    "Face detection confidence is low - consider adjusting tolerance settings",
+    "Add more training images per student for better recognition"
+  ]
+}

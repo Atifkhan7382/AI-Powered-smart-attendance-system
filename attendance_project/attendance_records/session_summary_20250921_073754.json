@@ -1,0 +1,21 @@
+{
+  "session_id": "f6bd7eb9-6fe0-4fc5-923d-29a70964ebf3",
+  "timestamp": "2025-09-21T07:37:54.305898",
+  "total_faces": 13,
+  "recognized_count": 11,
+  "unknown_faces": 0,
+  "students_present": [
+    "STUDENT_006",
+    "STUDENT_017",
+    "STUDENT_003",
+    "STUDENT_011",
+    "STUDENT_015",
+    "STUDENT_012",
+    "STUDENT_013",
+    "STUDENT_009",
+    "STUDENT_018",
+    "STUDENT_019",
+    "ABHISHEK-6690"
+  ],
+  "csv_file": "attendance_2025-09-21_073754.csv"
+}

@@ -1,0 +1,15 @@
+{
+  "session_id": "507a1c11-768c-408a-a454-d0b7cb980c0b",
+  "timestamp": "2025-09-21T10:09:34.021006",
+  "total_faces": 5,
+  "recognized_count": 5,
+  "unknown_faces": 0,
+  "students_present": [
+    "KARTHIK-66C2",
+    "AKIF-6697",
+    "PAVAN-66A2",
+    "KAUSHAL-66C4",
+    "SAICHARAN-6608"
+  ],
+  "csv_file": "attendance_2025-09-21_100934.csv"
+}

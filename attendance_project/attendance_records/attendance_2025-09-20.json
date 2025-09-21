@@ -1,0 +1,306 @@
+[
+  {
+    "timestamp": "2025-09-20T21:53:34.882854",
+    "date": "2025-09-20",
+    "time": "21:53:34.882854",
+    "class_name": "Class 2024",
+    "image_path": "C:/Users/atifk/Desktop/Attendence/attendance_project\\classroom_photos\\group_photo1.jpg",
+    "total_faces_detected": 3,
+    "recognized_students": 3,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_011",
+        "student_name": "Student 011",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_005",
+        "student_name": "Student 005",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20T21:53:36.532459",
+    "date": "2025-09-20",
+    "time": "21:53:36.532459",
+    "class_name": "Class 2024",
+    "image_path": "C:/Users/atifk/Desktop/Attendence/attendance_project\\classroom_photos\\IMG-20250920-WA0033.jpg",
+    "total_faces_detected": 2,
+    "recognized_students": 2,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_014",
+        "student_name": "Student 014",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20T21:53:37.430885",
+    "date": "2025-09-20",
+    "time": "21:53:37.430885",
+    "class_name": "Class 2024",
+    "image_path": "C:/Users/atifk/Desktop/Attendence/attendance_project\\classroom_photos\\group_photo1.jpg",
+    "total_faces_detected": 3,
+    "recognized_students": 3,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_011",
+        "student_name": "Student 011",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_005",
+        "student_name": "Student 005",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20T21:53:39.066185",
+    "date": "2025-09-20",
+    "time": "21:53:39.066185",
+    "class_name": "Class 2024",
+    "image_path": "C:/Users/atifk/Desktop/Attendence/attendance_project\\classroom_photos\\IMG-20250920-WA0033.jpg",
+    "total_faces_detected": 2,
+    "recognized_students": 2,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_014",
+        "student_name": "Student 014",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20T21:54:05.744741",
+    "date": "2025-09-20",
+    "time": "21:54:05.744741",
+    "class_name": "Test Class",
+    "image_path": "C:/Users/atifk/Desktop/Attendence/attendance_project/classroom_photos\\group_photo1.jpg",
+    "total_faces_detected": 3,
+    "recognized_students": 3,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_011",
+        "student_name": "Student 011",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_005",
+        "student_name": "Student 005",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20T21:57:00.198334",
+    "date": "2025-09-20",
+    "time": "21:57:00.198334",
+    "class_name": "Test Class",
+    "image_path": "classroom_photos\\group_photo1.jpg",
+    "total_faces_detected": 3,
+    "recognized_students": 3,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_011",
+        "student_name": "Student 011",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_005",
+        "student_name": "Student 005",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20T21:57:57.629696",
+    "date": "2025-09-20",
+    "time": "21:57:57.629696",
+    "class_name": "Test Class",
+    "image_path": "classroom_photos\\group_photo1.jpg",
+    "total_faces_detected": 3,
+    "recognized_students": 3,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_011",
+        "student_name": "Student 011",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_005",
+        "student_name": "Student 005",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20T21:58:48.151170",
+    "date": "2025-09-20",
+    "time": "21:58:48.151170",
+    "class_name": "Test Class",
+    "image_path": "classroom_photos\\group_photo1.jpg",
+    "total_faces_detected": 3,
+    "recognized_students": 3,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_011",
+        "student_name": "Student 011",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_005",
+        "student_name": "Student 005",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20T21:58:50.054678",
+    "date": "2025-09-20",
+    "time": "21:58:50.054678",
+    "class_name": "Test Class",
+    "image_path": "classroom_photos\\IMG-20250920-WA0033.jpg",
+    "total_faces_detected": 2,
+    "recognized_students": 2,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_014",
+        "student_name": "Student 014",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20T21:58:55.735795",
+    "date": "2025-09-20",
+    "time": "21:58:55.735795",
+    "class_name": "Test Class",
+    "image_path": "classroom_photos\\group_photo1.jpg",
+    "total_faces_detected": 3,
+    "recognized_students": 3,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_011",
+        "student_name": "Student 011",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_005",
+        "student_name": "Student 005",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20T21:59:41.491201",
+    "date": "2025-09-20",
+    "time": "21:59:41.491201",
+    "class_name": "Test Class",
+    "image_path": "classroom_photos\\group_photo1.jpg",
+    "total_faces_detected": 3,
+    "recognized_students": 3,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_011",
+        "student_name": "Student 011",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_005",
+        "student_name": "Student 005",
+        "status": "Present"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-09-20T21:59:43.326366",
+    "date": "2025-09-20",
+    "time": "21:59:43.326366",
+    "class_name": "Test Class",
+    "image_path": "classroom_photos\\IMG-20250920-WA0033.jpg",
+    "total_faces_detected": 2,
+    "recognized_students": 2,
+    "unknown_faces": 0,
+    "present_students": [
+      {
+        "student_id": "STUDENT_014",
+        "student_name": "Student 014",
+        "status": "Present"
+      },
+      {
+        "student_id": "STUDENT_013",
+        "student_name": "Student 013",
+        "status": "Present"
+      }
+    ]
+  }
+]
